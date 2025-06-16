@@ -431,4 +431,4 @@ Always use generated passwords responsibly and avoid sharing them.
 
 ---
 
-Made with ❤️ by [Emanuel Lázaro](https://github.com/emanuellcs).
+Made with ❤️ by [Tomas Leander].
