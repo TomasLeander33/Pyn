@@ -41,7 +41,7 @@ Pyn is a Python-based web application designed to enhance password security thro
 #### Linux
 1. Clone the repository:
    ```bash
-   git clone https://github.com/emanuellcs/pyn.git
+   git clone https://github.com/TomasLeander33/pyn.git
    cd pyn
 	```
 
@@ -68,7 +68,7 @@ Pyn is a Python-based web application designed to enhance password security thro
 1.  Clone the repository:
     
     ```bash
-    git clone https://github.com/emanuellcs/pyn.git
+    git clone https://github.com/TomasLeander/pyn.git
     cd pyn
     ```
     
@@ -95,7 +95,7 @@ Pyn is a Python-based web application designed to enhance password security thro
 1.  Clone the repository:
     
     ```cmd
-    git clone https://github.com/emanuellcs/pyn.git
+    git clone https://github.com/TomasLeander33/pyn.git
     cd pyn
     ```
     
@@ -376,7 +376,7 @@ Contributions are always welcome! Follow these steps to contribute:
 2.  Fork the repository:
     
     ```bash
-    git fork https://github.com/emanuellcs/pyn.git
+    git fork https://github.com/ToamsLeander33/pyn.git
     ```
     
 3.  Create a branch for your feature:
@@ -417,13 +417,13 @@ This project is distributed under the MIT License. See the `LICENSE` file for mo
 
 ## 📞 Contact
 
-Project Link: [Pyn on GitHub](https://github.com/emanuellcs/pyn)
+Project Link: [Pyn on GitHub](https://github.com/TomasLeander33/pyn)
 
-For any inquiries, you can reach me at: emanuellzr01@outlook.com
+For any inquiries, you can reach me at: tomas.leander33@gmail.com
 
 ## ❤️ Support
 
-To support this project, please consider donating through [GitHub Sponsors](https://github.com/sponsors/emanuellcs).
+To support this project, please consider donating through [GitHub Sponsors](https://github.com/TomasLeander33).
 
 ## ⚠️ Disclaimer
 
